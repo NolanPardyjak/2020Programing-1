@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nolan's programing portfolio 2020
 
 You can use the [editor on GitHub](https://github.com/NolanPardyjak/2020Programing-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
